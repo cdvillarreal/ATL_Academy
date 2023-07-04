@@ -1,0 +1,14 @@
+{
+  "questions": [
+    {
+      "question": "Pregunta 1",
+      "answers": ["Respuesta 1", "Respuesta 2", "Respuesta 3"],
+      "correct_answer": 0
+    },
+    {
+      "question": "Pregunta 2",
+      "answers": ["Respuesta 1", "Respuesta 2", "Respuesta 3"],
+      "correct_answer": 0
+    }
+  ]
+}
