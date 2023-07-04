@@ -1,0 +1,28 @@
+{
+  "academia": "Next Lang",
+  "direccion": "Principal 123",
+  "ciudad": "Villa Carlos Paz",
+  "contacto": {
+    "telefonos": ["156734756", "154456234"]
+  },
+  "cursos": [
+    {
+      "curso": "Inglés básico",
+      "descripcion": "Este curso introductorio está diseñado para principiantes.",
+      "duracion": "4 semanas",
+      "precio": "100 USD"
+    },
+    {
+      "curso": "Inglés avanzado",
+      "descripcion": "Este curso está diseñado para estudiantes avanzados.",
+      "duracion": "20 semanas",
+      "precio": "400 USD"
+    },
+    {
+      "nombre": "Italiano básico",
+      "descripcion": "Este curso introductorio está diseñado para principiantes.",
+      "duracion": "5 semanas",
+      "precio": "120 dólares"
+    }
+  ]
+}
